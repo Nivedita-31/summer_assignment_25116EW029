@@ -15,7 +15,7 @@ int main() {
         return 0;
     }
 
-    int A[r1][c1], B[r2][c2], C[r1][c2];
+    int A[10][10], B[10][10], C[10][10];
 
     printf("Enter elements of first matrix:\n");
     for (i = 0; i < r1; i++)
